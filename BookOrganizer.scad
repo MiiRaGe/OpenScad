@@ -1,7 +1,7 @@
 book_height = 101;
 book_width = 101;
 book_depth = 5;
-number_of_books = 24;
+number_of_books = 13;
 book_padding = 2;
 padding = 5;
 
